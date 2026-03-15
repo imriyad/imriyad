@@ -1,67 +1,85 @@
 <h1 align="center">Hi 👋, I'm Mahdi Kabir Riyad</h1>
+<h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;5%2B+Years+of+Coding+Experience;MERN+Stack+Specialist;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 💼 Professional Summary
 
-- 💻 Passionate Developer  
-- 🚀 Learning New Technologies  
-- 🌎 Love Open Source  
+> *Passionate Full Stack Developer with expertise in building scalable web applications. Strong background in modern JavaScript frameworks and cloud technologies. Committed to writing clean, maintainable code and staying current with industry trends.*
 
 ---
 
-### 🌐 Connect With Me
+### 🚀 Current Focus
+
+- 🔭 Working on **Enterprise Level Web Applications**
+- 🌱 Mastering **Cloud Architecture & DevOps**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **MERN Stack, System Design, Performance Optimization**
+- 📫 Reach me at: **mahdi.riyad@email.com**
+- ⚡ Fun fact: **I automate everything possible!**
+
+---
+
+### 🏆 GitHub Trophies
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_PROFILE">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://youtube.com/@YOUR_CHANNEL">
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/>
-</a>
-
-<a href="https://twitter.com/YOUR_HANDLE">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"/>
-</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=imriyad&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-### 👀 Visitor Count
+### 🛠️ Technical Skills
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+#### **Frontend Development**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+
+#### **Backend Development**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
+
+#### **Database & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+#### **DevOps & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode,mongodb,mysql" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imriyad&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imriyad&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=imriyad&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imriyad&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -69,27 +87,16 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imriyad&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imriyad&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
 
-### ⭐ Top Languages
+### 🎯 Weekly Development Breakdown
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imriyad&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-### ⚡ Fun Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-<p align="center">
-⭐ From <a href="https://github.com/imriyad">Mahdi Kabir Riyad</a>
-</p>
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░   58.3% 
+Python       4 hrs 15 mins   ████░░░░░░░░░░░░░░░░░   19.8% 
+TypeScript   3 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░   15.5% 
+HTML/CSS     1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░   6.4%
