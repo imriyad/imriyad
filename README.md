@@ -1,102 +1,95 @@
-<h1 align="center">Hi 👋, I'm Mahdi Kabir Riyad</h1>
-<h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahdi+Kabir+Riyad;Junior+Software+Engineer;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Building%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;5%2B+Years+of+Coding+Experience;MERN+Stack+Specialist;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=imriyad&label=Profile%20Views&color=0e75b6&style=flat" alt="imriyad" />
+  <img src="https://img.shields.io/github/followers/imriyad?label=Followers&style=flat&color=0e75b6" alt="followers" />
 </p>
 
 ---
 
-### 💼 Professional Summary
+## 👨‍💻 About Me
 
-> *Passionate Full Stack Developer with expertise in building scalable web applications. Strong background in modern JavaScript frameworks and cloud technologies. Committed to writing clean, maintainable code and staying current with industry trends.*
+```javascript
+const riyad = {
+  name:        "Mahdi Kabir Riyad",
+  role:        "Junior Software Engineer @ Gigabit",
+  education:   "BSc in CSE — American International University-Bangladesh (AIUB)",
+  location:    "Dhaka, Bangladesh 🇧🇩",
+  stack:       ["React", "Next.js", "Node.js", "Express"],
+  currentFocus: "Building scalable full-stack applications",
+  goal:        "Launching my own software company 🚀",
+  funFact:     "I debug with coffee ☕ and commit at midnight 🌙"
+};
+```
 
 ---
 
-### 🚀 Current Focus
-
-- 🔭 Working on **Enterprise Level Web Applications**
-- 🌱 Mastering **Cloud Architecture & DevOps**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **MERN Stack, System Design, Performance Optimization**
-- 📫 Reach me at: **mahdi.riyad@email.com**
-- ⚡ Fun fact: **I automate everything possible!**
-
----
-
-### 🏆 GitHub Trophies
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imriyad&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,git,github,vscode,mongodb,mysql,docker&perline=7" />
 </p>
 
 ---
 
-### 🛠️ Technical Skills
-
-#### **Frontend Development**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-</p>
-
-#### **Backend Development**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-</p>
-
-#### **Database & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-#### **DevOps & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imriyad&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imriyad&layout=compact&langs_count=8&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imriyad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imriyad&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🔥 Streak & Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=imriyad&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imriyad&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imriyad&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+## 🚀 What I'm Up To
+
+- 🔭 Currently working as a **Junior Software Engineer at Gigabit**
+- 🌱 Deepening my skills in **System Design & Cloud Architecture**
+- 💡 Exploring **scalable full-stack patterns** with React & Node.js
+- 🎯 Long-term goal: **Building my own software company**
+- 💬 Ask me about **React, Next.js, Node.js, or Express**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imriyad&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <a href="https://www.linkedin.com/in/mahdikabirriyad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahdi%20Kabir%20Riyad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/imriyad" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-imriyad-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🎯 Weekly Development Breakdown
+## ⚡ GitHub Contribution Snake
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░   58.3% 
-Python       4 hrs 15 mins   ████░░░░░░░░░░░░░░░░░   19.8% 
-TypeScript   3 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░   15.5% 
-HTML/CSS     1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░   6.4%
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imriyad/imriyad/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i> — John Johnson
+</p>
+
+<p align="center">
+  ⭐ From <a href="https://github.com/imriyad"><b>imriyad</b></a> — Thanks for visiting!
+</p>
